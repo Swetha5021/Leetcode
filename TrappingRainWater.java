@@ -1,4 +1,6 @@
 //Two pointer approach
+//Time: O(n)
+//space: O(1)
 class Solution{
 
     static int maxWater(int[] arr, int n) {
